@@ -3,7 +3,7 @@
 
 This project is a fully automated job discovery and filtering system designed using **n8n**, **OpenAI GPT-4**, and **Google Sheets API**. It scrapes job postings from LinkedIn RSS feeds, evaluates each posting against your resume using an AI-based scoring model, and filters out roles that are not a good fit. The final output is a curated list of job opportunities appended to a Google Sheet for review.
 
-![Job Scrapper Workflow](https://github.com/user-attachments/assets/3cb41c9a-7471-4790-8e01-b78ae38ee058)
+![Job Scrapper Workflow](https://github.com/user-attachments/assets/2319c25a-513e-4a21-a2c0-e8d5f2635046)
 
 ## Objective
 
