@@ -3,6 +3,8 @@
 
 This project is a fully automated job discovery and filtering system designed using **n8n**, **OpenAI GPT-4**, and **Google Sheets API**. It scrapes job postings from LinkedIn RSS feeds, evaluates each posting against your resume using an AI-based scoring model, and filters out roles that are not a good fit. The final output is a curated list of job opportunities appended to a Google Sheet for review.
 
+![Job Scrapper Workflow](https://github.com/user-attachments/assets/3cb41c9a-7471-4790-8e01-b78ae38ee058)
+
 ## Objective
 
 The goal is to automate the manual effort involved in reviewing job postings by:
@@ -20,7 +22,7 @@ You can either import a prebuilt version of the workflow into your n8n instance 
 
 1. Clone or download this repository.
 2. Open your n8n instance.
-3. Import the JSON file from the `workflow/` folder.
+3. Import the JSON file.
 4. Set up the required credentials:
    - OpenAI API Key
    - Google Sheets OAuth2 credentials
