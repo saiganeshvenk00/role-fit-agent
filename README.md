@@ -22,7 +22,7 @@ You can either import a prebuilt version of the workflow into your n8n instance 
 
 1. Clone or download this repository.
 2. Open your n8n instance.
-3. Import the JSON file.
+3. Import the JSON file (https://github.com/saiganeshvenk00/role-fit-agent/blob/main/Job_Scrapper_Resume_Rating.json).
 4. Set up the required credentials:
    - OpenAI API Key
    - Google Sheets OAuth2 credentials
